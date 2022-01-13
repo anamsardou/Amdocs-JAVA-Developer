@@ -1,5 +1,5 @@
 # Amdocs-JAVA-Developer
 
-Repositório Amadocs Java Developer - Desafio de Projeto (Git/GitHub)
+_Repositório Amadocs Java Developer - Desafio de Projeto (Git/GitHub)_
 
-Anotações / Exerc´cios
+**Anotações / Exerc´cios**
